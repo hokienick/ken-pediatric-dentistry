@@ -61,20 +61,20 @@ export default function Home() {
       >
         <div className="mx-auto grid max-w-[1200px] gap-8 px-6 py-12 md:grid-cols-3 md:px-10">
           <p className="max-w-[32ch]">
-            <strong className="font-serif text-xl">Board-certified specialists.</strong>{" "}
-            <span className="text-bark-600">
+            <strong className="font-serif text-xl">Board-certified specialists.</strong>
+            <span className="mt-1 block text-bark-600">
               Diplomates of the American Board of Pediatric Dentistry.
             </span>
           </p>
           <p className="max-w-[32ch]">
-            <strong className="font-serif text-xl">Two specialties, one roof.</strong>{" "}
-            <span className="text-bark-600">
+            <strong className="font-serif text-xl">Two specialties, one roof.</strong>
+            <span className="mt-1 block text-bark-600">
               Pediatric dentistry and orthodontics share the same caring team.
             </span>
           </p>
           <p className="max-w-[32ch]">
-            <strong className="font-serif text-xl">Trusted by families.</strong>{" "}
-            <span className="text-bark-600">
+            <strong className="font-serif text-xl">Trusted by families.</strong>
+            <span className="mt-1 block text-bark-600">
               Generations of San Diego kids have grown up in our chairs.
             </span>
           </p>
